@@ -22,3 +22,7 @@ class Mahasiswa{
 };
 
 int Mahasiswa::nim = 100;
+
+void Mahasiswa::setID(){
+    id = ++nim;
+}
