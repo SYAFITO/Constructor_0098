@@ -11,3 +11,5 @@ class angka{
         void cetakData();
         void isiData();
 };
+
+//Definisi member function
